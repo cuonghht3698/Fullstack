@@ -9,7 +9,7 @@ using Api.Models;
 
 namespace Api.Controllers
 {
-    //hihi2
+    //cuong dola
     [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
